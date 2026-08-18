@@ -1,0 +1,31 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python / notebook artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Secrets and local configuration
+.env
+.env.*
+*.pem
+*.key
+secrets.*
+credentials.*
+
+# Temporary Office files
+~$*.xlsx
+~$*.docx
+~$*.pptx
+
+# Generated or oversized scratch output
+scratch/
+tmp/
+*.log
+
