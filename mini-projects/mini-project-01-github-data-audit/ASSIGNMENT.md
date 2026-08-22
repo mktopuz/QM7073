@@ -79,9 +79,9 @@ Answer at least three decision-focused questions and include:
 - At least one branch and pull request
 - No passwords, API keys, private data, or unnecessary AI transcripts
 
-## Grading — 100 points
+## Grading — 100 %
 
-| Criterion | Points |
+| Criterion | Percent |
 |---|---:|
 | In-class checkpoint and organization | 15 |
 | GitHub organization and reproducibility | 15 |
