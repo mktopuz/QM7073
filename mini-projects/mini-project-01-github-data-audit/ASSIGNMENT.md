@@ -12,7 +12,7 @@ You must use an approved AI tool, but your team remains responsible for every cl
 
 ### Required work
 
-1. Create a private team repository with folders for raw data, cleaned data, analysis, AI use, and the report.
+1. Create a team repository with folders for raw data, cleaned data, analysis, AI use, and the report.
 2. Add the original workbook to `data/raw/`. Never overwrite it.
 3. Assign team responsibilities and document them in the repository README.
 4. Conduct a 10-minute human-first inspection before consulting AI.
