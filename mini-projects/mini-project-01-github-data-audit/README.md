@@ -6,23 +6,24 @@ Your team will audit a deliberately messy fictional business dataset, use GitHub
 
 ## Start here
 
-1. Read the complete [Decision Lab 1 instructions](ASSIGNMENT.md).
-2. Download the original [student dataset](data/raw/DrK_Messy_Analytics_Cafe_STUDENT.xlsx).
-3. Do not overwrite or “fix” the raw file.
-4. Create one repository for your team and organize it using the structure below.
-5. Record a human-first inspection before using AI.
-6. Maintain the [AI-use and verification log](ai-use/AI-USE-LOG.md).
-7. Use the [final report template](report/REPORT-TEMPLATE.md).
+1. Full instructions can be found on Harvey
+2. Read the summary [Decision Lab 1 instructions](ASSIGNMENT.md).
+3. Download the original [student dataset](data/raw/DrK_Messy_Analytics_Cafe_STUDENT.xlsx).
+4. Do not overwrite or “fix” the raw file.
+5. Create one repository for your team and organize it using the structure below.
+6. Record a human-first inspection before using AI.
+7. Maintain the [AI-use and verification log](ai-use/AI-USE-LOG.md).
+8. Use the [final report template](report/REPORT-TEMPLATE.md).
 
 ## Submission dates
 
 | Submission | Due | Weight |
 |---|---|---:|
-| In-class first draft | September 9, 8:45 p.m. | 25% |
-| Improved final submission | September 15, 11:59 p.m. | 75% |
+| In-class first draft | Check Harvey. | 25% |
+| Improved final submission | Check Harvey | 75% |
 | **Total** |  | **100%** |
 
-Submit the team-repository URL in Harvey for both stages. Everyone must make a final submission, even if the team decides that its first draft needs no changes.
+Everyone must make a final submission, even if the team decides that its first draft needs no changes.
 
 ## Recommended team-repository structure
 
