@@ -8,7 +8,7 @@ Your team will audit a deliberately messy fictional business dataset, use GitHub
 
 1. Full instructions can be found on Harvey
 2. Read the summary [Decision Lab 1 instructions](ASSIGNMENT.md).
-3. Download the original [student dataset](raw/DrK_Messy_Analytics_Cafe_STUDENT.xlsx).
+3. Download the original [student dataset](raw/DrK_Messy_Analytics_Cafe_STUDENT_2026.xlsx).
 4. Do not overwrite or “fix” the raw file.
 5. Create one repository for your team and organize it using the structure below.
 6. Record a human-first inspection before using AI.
