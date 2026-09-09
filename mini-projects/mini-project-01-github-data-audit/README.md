@@ -12,7 +12,7 @@ The complete requirements, in-class and final deliverables, report expectations,
 
 Access both files using your University of Tulsa email account.
 
-1. **[Open the Decision Lab 1 workbook template with the original data](https://univoftulsa-my.sharepoint.com/:x:/g/personal/kat0141_utulsa_edu/IQBPLrLd-0eeQqVL_EmuSw9rAajxP_J65ieMrcRVd-4MM1o?e=GFZSDD)**
-2. **[Open the complete Decision Lab 1 instructions and rubric](https://univoftulsa-my.sharepoint.com/:w:/g/personal/kat0141_utulsa_edu/IQD8Jx6UT2qmQoK5-2q0m8mSAcc8Fwrra-aq8-DPinwr1yo?e=3lSU8n)**
+1. **[Open QM7073_Decision_Lab_1_Template_Workbook.xlsx — template with original data](https://univoftulsa-my.sharepoint.com/:x:/g/personal/kat0141_utulsa_edu/IQBPLrLd-0eeQqVL_EmuSw9rAajxP_J65ieMrcRVd-4MM1o?e=GFZSDD)**
+2. **[Open QM7073_Decision_Lab_1_Data_Trust_Audit_Instructions_GITHUB_FINAL.docx — complete instructions and rubric](https://univoftulsa-my.sharepoint.com/:w:/g/personal/kat0141_utulsa_edu/IQD8Jx6UT2qmQoK5-2q0m8mSAcc8Fwrra-aq8-DPinwr1yo?e=3lSU8n)**
 
 If the spreadsheet looks perfectly clean after five minutes, it is probably just being polite.
