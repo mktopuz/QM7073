@@ -1,66 +1,18 @@
-# Decision Lab 1 — GitHub Data Audit and Decision Framing
+# Decision Lab 1 — Can Dr. K Trust the Café Data?
 
-Welcome to **Dr. K's Late-Night Analytics Cafe**, where the coffee is statistically significant, the brownies are overfit, and validation rules were apparently considered optional.
+Dr. K's Late-Night Analytics Café has plenty of orders, several locations, ambitious plans, and a spreadsheet that has clearly been through some things. Before management builds dashboards, predicts wait times, or optimizes staffing, one question comes first: **Can the data be trusted enough to support a decision?**
 
-Your team will audit a deliberately messy fictional business dataset, use GitHub to manage reproducible work, use an approved AI assistant, and produce a defensible recommendation.
+In this team-based Decision Lab, you will apply concepts from Modules 1–2 and Chapters 1–3. Your team will frame the management decision, describe the data structure, conduct a structured data-quality audit, create a transparent cleaned dataset, analyze one focused management question, and make a decision-ready recommendation.
 
-## Start here
+The workbook template already contains the original café dataset, starter guidance, and selected worked examples. Preserve the **Original Data** worksheet and complete the remaining work in the provided workbook. Approved AI use is permitted, but important suggestions, calculations, cleaning decisions, and conclusions must be independently verified and disclosed as described in the instructions.
 
-1. Full instructions can be found on Harvey
-2. Read the summary [Decision Lab 1 instructions](ASSIGNMENT.md).
-3. Download the original [student dataset](raw/DrK_Messy_Analytics_Cafe_STUDENT_2026.xlsx).
-4. Do not overwrite or “fix” the raw file.
-5. Create one repository for your team and organize it using the structure below.
-6. Record a human-first inspection before using AI.
-7. Maintain the [AI-use and verification log](ai-use/AI-USE-LOG.md).
-8. Use the [final report template](report/REPORT-TEMPLATE.md).
+The complete requirements, in-class and final deliverables, report expectations, recording requirements, AI-use expectations, file-naming rules, and grading rubric are provided in the instruction document. Opening dates, due dates, grading details, and submission links are posted in Harvey. Submit your team's work through **Harvey**, not GitHub.
 
-## Submission dates
+## Student Files
 
-| Submission | Due | Weight |
-|---|---|---:|
-| In-class first draft | Check Harvey. | 25% |
-| Improved final submission | Check Harvey | 75% |
-| **Total** |  | **100%** |
+Access both files using your University of Tulsa email account.
 
-Everyone must make a final submission, even if the team decides that its first draft needs no changes.
+1. **[Open the Decision Lab 1 workbook template with the original data](https://univoftulsa-my.sharepoint.com/:x:/g/personal/kat0141_utulsa_edu/IQBPLrLd-0eeQqVL_EmuSw9rAajxP_J65ieMrcRVd-4MM1o?e=GFZSDD)**
+2. **[Open the complete Decision Lab 1 instructions and rubric](https://univoftulsa-my.sharepoint.com/:w:/g/personal/kat0141_utulsa_edu/IQD8Jx6UT2qmQoK5-2q0m8mSAcc8Fwrra-aq8-DPinwr1yo?e=3lSU8n)**
 
-## Recommended team-repository structure
-
-```text
-decision-lab-01/
-├── README.md
-├── data/
-│   ├── raw/
-│   └── cleaned/
-├── analysis/
-├── ai-use/
-│   └── AI-USE-LOG.md
-└── report/
-    ├── FINAL-REPORT.md
-    └── FINALIZATION-NOTE.md
-```
-
-Keep raw and cleaned data separate. Use relative links so the repository continues to work when it is copied or downloaded.
-
-## Course repository structure
-
-The course repository uses one numbered folder per Decision Lab:
-
-```text
-mini-projects/
-├── mini-project-01-github-data-audit/
-├── decision-lab-02-dashboard-challenge/       # added later
-├── decision-lab-03-data-mining/               # added later
-└── decision-lab-04-forecasting-optimization/  # added later
-```
-
-The existing `mini-project-01-github-data-audit` folder is retained so previously shared links and the dataset download do not break. The student-facing assignment name is **Decision Lab 1**.
-
-## What success looks like
-
-A strong submission is reproducible, decision-focused, transparent about AI use, and skeptical enough to verify every important claim. A polished chart cannot rescue a questionable dataset—but it can make the questionable dataset look alarmingly persuasive.
-
-## Repository safety
-
-Never commit passwords, API keys, personal information, restricted data, or unnecessary AI transcripts.
+If the spreadsheet looks perfectly clean after five minutes, it is probably just being polite.
